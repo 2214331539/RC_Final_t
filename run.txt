@@ -1,0 +1,7 @@
+npm run build   构建生产版本
+pm2 restart color-mind          使用pm2启动服务
+serve -s build                  使用serve启动服务
+
+npm start                       本地运行测试
+
+
